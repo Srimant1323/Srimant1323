@@ -10,7 +10,7 @@ I recognised that data is the common thread across every domain — from genomic
 
 I now work across two tracks: biological data analysis for research roles, and end-to-end data & AI pipelines for broader industry applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srimant_Bhardwaj-blue)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srimant_Bhardwaj-blue)](https://www.linkedin.com/in/srimant-bhardwaj-13s23a)
 [![GitHub](https://img.shields.io/badge/GitHub-Srimant1323-black)](https://github.com/Srimant1323)
 
 ---
