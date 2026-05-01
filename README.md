@@ -1,6 +1,5 @@
 # Hi, I'm Srimant
-
-Bioinformatician → Computational Biologist → Data & AI
+Bioinformatician → Bridging Biology and Intelligent Systems | Learning through curiosity, building through data
 
 M.Tech Bioinformatics · Delhi Technological University (DTU)
 
