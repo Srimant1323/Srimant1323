@@ -86,5 +86,6 @@ Each project was built to understand the method, not just run the code.
 
 ---
 
-*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+*"I don't have all the answers yet — but I'm asking the right questions."*
+
 
