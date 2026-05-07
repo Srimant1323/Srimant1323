@@ -4,7 +4,7 @@
 
 **M.Tech Bioinformatics** · Delhi Technological University  |  **Project Intern** · IIIT Allahabad
 
-I build things at th eintersection of biology, data, and code- Data is the common thread. I follow it wherever it leads.
+I build things at the intersection of biology, data, and code- Data is the common thread. I follow it wherever it leads.
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-1D9E75?style=flat&logoColor=white)
 ![Data & AI](https://img.shields.io/badge/Data_%26_AI-185FA5?style=flat&logoColor=white)
