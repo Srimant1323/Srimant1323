@@ -253,12 +253,8 @@ I created the 200-patient dataset from scratch and built the entire dashboard on
 
 ---
 
-## 🎯 Currently working on
+## 🎯 Currently working on- Building something at the intersection of healthcare, AI, and data analytics.
 
-- **Bioinformatics Practice repo** — adding sequence alignment, variant calling, and a full RNA-seq pipeline from FASTQ to DEG
-- **SHAP explainability** applied to transcriptomics and genomics datasets beyond clinical trials
-- **HandRide** — deploying live on Netlify, adding leaderboard, exploring mobile gesture support
-- **Next bioinformatics web tool** — a deployable app in the genomics space
 
 ---
 
