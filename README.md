@@ -73,9 +73,9 @@ Web & Deployment           ████████████░░░░░�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srimant1323&show_icons=true&hide_border=true&count_private=true&theme=default&bg_color=ffffff&title_color=0F6E56&icon_color=1D9E75&text_color=2c2c2c" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Srimant1323&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=0F6E56&icon_color=1D9E75&text_color=2c2c2c" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srimant1323&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=0F6E56&text_color=2c2c2c&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srimant1323&layout=compact&hide_border=true&theme=transparent&title_color=0F6E56&text_color=2c2c2c&langs_count=8" height="170"/>
 
 <br/><br/>
 
