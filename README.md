@@ -252,6 +252,23 @@ I built this to understand how healthcare data is actually used in clinical oper
 I created the 200-patient dataset from scratch and built the entire dashboard on top of it using COUNTIF, COUNTIFS, AVERAGEIF, AVERAGEIFS, and IFERROR in a way where every KPI and chart updates automatically when new patient data is added. The hardest part was designing the summary metrics — figuring out which combinations of conditions gave the most actionable clinical insight. That's a thinking problem, not a technical one. It forced me to think like an analyst, not just a student building something for a portfolio.
 
 ---
+## 🧠 Technical Skills
+I've been learning computational tools progressively, applying them to real problems, and taking help from AI, documentation, and online resources wherever needed.
+
+| Area | Skills |
+|---|---|
+| **Languages** | Python · SQL · JavaScript · HTML · CSS |
+| **Data Analytics** | pandas · NumPy · matplotlib · seaborn · SciPy · EDA · data cleaning · missing value imputation (MCAR/MAR/MNAR) · feature engineering · statistical inference |
+| **Machine Learning** | scikit-learn · XGBoost · Random Forest · Logistic Regression · classification · clustering · survival analysis · SHAP explainability · SMOTE · transfer learning · counterfactual explanations (applied to biological & clinical data problems) |
+| **Bioinformatics** | RNA-seq · NGS pipelines · variant analysis (VCF) · metagenomics · taxonomic profiling · hierarchical clustering · gene expression analysis · PyDESeq2 · ORA · GSEA · PBMC transcriptomics · sequence analysis (DNA/RNA/Protein) · ORF detection |
+| **Visualisation & BI** | matplotlib · seaborn · Tableau · Power BI · Jupyter Notebook · Google Colab |
+| **Databases & Querying** | SQL · DuckDB |
+| **Reporting & Dashboards** | Microsoft Excel · xlsxwriter · openpyxl · Tableau Public · Power BI dashboards |
+| **Computer Vision & AI** | MediaPipe Hands · real-time landmark detection · gesture classification · HTML5 Canvas particle systems |
+| **Web & Deployment** | HTML/CSS/JS · Python backend · Vercel · Netlify · browser-native AI apps |
+| **Dev Tools** | Git · GitHub · VS Code · virtual environments |
+| **Wet Lab- Plant Tissue Culture** | Surface sterilisation · explant preparation · MS medium formulation · callus induction · shoot & root organogenesis · subculturing · hardening & acclimatisation · aseptic technique · growth regulator optimisation (auxins/cytokinins) · contamination control |
+| **Domain Knowledge** | Clinical trial analytics · oncology data · COVID-19 transcriptomics · healthcare operations · fraud detection · supply chain analytics · precision medicine · multi-omics integration · mental health ML · environmental data · computational genomics |
 
 ## 🎯 Currently working on- Building something at the intersection of healthcare, AI, and data analytics.
 
