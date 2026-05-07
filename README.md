@@ -4,9 +4,7 @@ Biologist → Bioinformatician → Data & AI
 
 M.Tech Bioinformatics · Delhi Technological University · Project Intern · IIIT Allahabad
 
-Started in wet lab — plant tissue culture, aseptic technique, growth regulator optimisation. Moved into computational biology, then into applied ML, browser-based AI tools, and end-to-end deployed apps. Built a portfolio around methods that matter in both research and industry roles.
-
-I recognised that data is the common thread across every domain — from genomics to oncology trials to gesture-controlled games — and started going deep into it.
+I build things at the intersection of biology, data, and code —.Data is the common thread. I follow it wherever it leads.
 
 I now work across two tracks: biological data analysis for research roles, and data & AI pipelines for broader industry applications.
 
@@ -219,12 +217,9 @@ I created the 200-patient dataset from scratch and built the entire dashboard on
 
 ---
 
-## Currently Working On
+## Currently Working On - Building something at the intersection of healthcare, AI, and data analytics                         
 
 - **Hospital-facing ML app** — designing a tool that brings together patient data, clinical patterns, and ML predictions to support real operational decisions at the ward level. Still in the thinking and architecture phase — figuring out what would actually be useful to a clinician, not just technically impressive.
-- **Bioinformatics Practice repo** — adding sequence alignment, variant calling, and a full RNA-seq pipeline from FASTQ to DEG
-- **HandRide** — deploying live on Netlify, adding a leaderboard, exploring mobile gesture support
-- **SHAP explainability** — applying it to transcriptomics and genomics datasets beyond clinical trials
 
 ---
 
