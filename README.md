@@ -66,7 +66,7 @@ Data is the common thread. I follow it wherever it leads.
 | 🧬 | [**BioCalc App**](https://github.com/Srimant1323/biocalc-app) | No-code web toolkit for DNA, RNA & protein sequence analysis — GC content, transcription, translation, ORF detection. Built for biologists who don't code. | HTML · CSS · JS · Vercel | [→ Live](https://biocalc-app-six.vercel.app) |
 | 🧠 | [**MindBridge App**](https://github.com/Srimant1323/MindBridge-app) | Full-stack ML web app for mental health risk assessment. Trained classifier → Python backend → HTML/JS frontend, deployed end-to-end. | Python · scikit-learn · HTML/JS · Vercel | [→ Live](https://mind-bridge-app-rho.vercel.app) |
 
-> ⚠️ **HandRide** live deployment coming soon — deploy link will be updated on Netlify.
+
 
 ---
 
