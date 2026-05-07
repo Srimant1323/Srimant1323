@@ -3,6 +3,7 @@
 **Biologist → Bioinformatician → Data & AI**
 
 **M.Tech Bioinformatics** · Delhi Technological University  |  **Project Intern** · IIIT Allahabad
+
 I build things at th eintersection of biology, data, and code- Data is the common thread. I follow it wherever it leads.
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-1D9E75?style=flat&logoColor=white)
