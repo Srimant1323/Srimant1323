@@ -1,14 +1,13 @@
 # Hi, I'm Srimant
 
-Biologist → Bioinformatician → Data & AI
+**Biologist → Bioinformatician → Data & AI**
 
-M.Tech Bioinformatics · Delhi Technological University · Project Intern · IIIT Allahabad
+**M.Tech Bioinformatics** · Delhi Technological University  |  **Project Intern** · IIIT Allahabad
 
-I build things at the intersection of biology, data, and code —.Data is the common thread. I follow it wherever it leads.
-
-I now work across two tracks: biological data analysis for research roles, and data & AI pipelines for broader industry applications.
-
-Open to remote data analyst roles · bioinformatics research positions · freelance projects · 📧 bhardwajsrimant7@gmail.com
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-1D9E75?style=flat&logoColor=white)
+![Data & AI](https://img.shields.io/badge/Data_%26_AI-185FA5?style=flat&logoColor=white)
+![Plant Tissue Culture](https://img.shields.io/badge/Plant_Tissue_Culture-534AB7?style=flat&logoColor=white)
+![Open to remote](https://img.shields.io/badge/Open_to_remote_%26_freelance-555?style=flat&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srimant_Bhardwaj-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srimant-bhardwaj-13s23a)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6395--1216-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6395-1216)
